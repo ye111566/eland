@@ -1,1 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-ye111566-land"
+version = "2.0.0"
+description = "领地"
+
 [project.entry-points."endstone"]
+ye111566-land = "endstone_ye111566_land:Ye111566Land"
