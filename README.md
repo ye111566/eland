@@ -20,6 +20,7 @@ self.server.plugin_manager.get_plugin('ye111566_land').landdata_to_Land('主城'
 
 self.server.plugin_manager.get_plugin('ye111566_land').Block_to_landname(endstone的Block对象)可以把方块对象转为此方块所在的领地的名字
 
+self.server.plugin_manager.get_plugin('ye111566_land').Player_to_landname(endstone的Player对象)可以把玩家对象转为此玩家所在的领地的名字
 Land对象有下列方法：
 
 attr: name->str
