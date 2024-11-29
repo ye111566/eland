@@ -18,7 +18,7 @@ self.server.plugin_manager.get_plugin('ye111566_land').landname_to_landdata('主
 
 self.server.plugin_manager.get_plugin('ye111566_land').landdata_to_Land('主城') 可以把领地的字典转为领地Land对象
 
-self.server.plugin_manager.get_plugin('ye111566_land').block_to_landname(endstone的Block对象)可以把方块对象转为此方块所在的领地的名字
+self.server.plugin_manager.get_plugin('ye111566_land').Block_to_landname(endstone的Block对象)可以把方块对象转为此方块所在的领地的名字
 
 Land对象有下列方法：
 
