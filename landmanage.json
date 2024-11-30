@@ -1,0 +1,62 @@
+{
+    "§l§b管理领地成员": {
+        "text": "管理领地成员",
+        "cmd": "landgui member",
+        "icon": "textures/ui/profile_glyph_combined",
+        "mode": "player"
+    },
+    "§l§b管理领地成员（在线）": {
+        "text": "管理领地成员",
+        "cmd": "landgui member_online",
+        "icon": "textures/ui/profile_glyph_combined",
+        "mode": "player"
+    },
+    "§l§b领地过户": {
+        "text": "领地过户",
+        "cmd": "landgui transfer",
+        "icon": "textures/ui/switch_accounts",
+        "mode": "player"
+    },
+    "§l§b领地过户（在线）": {
+        "text": "领地过户",
+        "cmd": "landgui transfer_online",
+        "icon": "textures/ui/switch_accounts",
+        "mode": "player"
+    },
+    "§l§b重命名领地": {
+        "text": "重命名领地",
+        "cmd": "landgui rename",
+        "icon": "textures/ui/text_color_paintbrush",
+        "mode": "player"
+    },
+    "§l§b删除领地并退款": {
+        "text": "删除领地并退款",
+        "cmd": "landgui del",
+        "icon": "textures/ui/redX1",
+        "mode": "player"
+    },
+    "§l§b设置领地传送点": {
+        "text": "设置领地传送点",
+        "cmd": "landgui tpset",
+        "icon": "textures/ui/interact_pressed",
+        "mode": "player"
+    },
+    "§l§b管理领地基本权限": {
+        "text": "管理领地权限",
+        "cmd": "landgui manage",
+        "icon": "textures/ui/invertedmultiselecticon",
+        "mode": "player"
+    },
+    "§l§b管理领地内右键方块黑名单": {
+        "text": "右键方块黑名单",
+        "cmd": "landgui arcb",
+        "icon": "textures/ui/InvalidWorldDemoScreen",
+        "mode": "player"
+    },
+    "§l§b返回上级菜单": {
+        "text": "返回上级菜单",
+        "cmd": "menu landgui.json",
+        "icon": "textures/ui/wysiwyg_reset",
+        "mode": "player"
+    }
+}

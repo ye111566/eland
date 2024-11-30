@@ -1,0 +1,37 @@
+{
+    "查看自己领地信息": {
+        "text": "/land info",
+        "cmd": "land info",
+        "mode": "player"
+    },
+    "购买领地": {
+        "text": "购买领地",
+        "cmd": "landgui buy",
+        "mode": "player"
+    },
+    "管理领地": {
+        "text": "管理领地",
+        "cmd": "menu landmanage.json",
+        "mode": "player"
+    },
+    "传送全部领地": {
+        "text": "传送全部领地",
+        "cmd": "landgui tp",
+        "mode": "player"
+    },
+    "传送自己领地": {
+        "text": "传送自己领地",
+        "cmd": "landgui home",
+        "mode": "player"
+    },
+    "领地指令帮助": {
+        "text": "/land help",
+        "cmd": "land help",
+        "mode": "player"
+    },
+    "返回主菜单": {
+        "text": "返回主菜单",
+        "cmd": "menu menu.json",
+        "mode": "player"
+    }
+}
