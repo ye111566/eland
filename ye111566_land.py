@@ -749,7 +749,10 @@ class Ye111566Land(Plugin):
                                     {"build": "false"},
                                     {"mine": "false"},
                                     {"tp": "false"},
-                                ]
+                                ],
+                                "mobgriefing":false,
+                                "fire":false,
+                                "explode":false
                             }
                         }
 
