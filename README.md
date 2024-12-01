@@ -79,6 +79,17 @@ attr:tp->bool
 
 返回是否开启公共传送权限
 
-attr:owner->str
+attr:fire->bool
+返回是否允许火焰
 
-返回领地的主人名字 如"HOMO1145141919810"
+attr:explode
+返回是否允许爆炸
+
+attr:mobgriefing
+返回是否允许生物破坏
+
+meth:get_owner()->str
+比如a是一个Land对象
+a.get_owner()得到的就是这个Land对象的主人名字
+返回领地的主人名字 
+如"HOMO1145141919810"
