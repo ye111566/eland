@@ -2,6 +2,10 @@
 a realm plugin for minecraft endstone bedrock dedicated server plugin loader
 下载去release
 
+
+https://github.com/ye111566/eland/releases
+
+
 usage:
 /land
 to open the main menu
