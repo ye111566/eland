@@ -37,6 +37,9 @@ self.server.plugin_manager.get_plugin('ye111566_land').Block_to_landname(endston
 
 self.server.plugin_manager.get_plugin('ye111566_land').Player_to_landname(endstone的Player对象)可以把玩家对象转为此玩家所在的领地的名字
 
+self.server.plugin_manager.get_plugin('ye111566_land').edit(领地名字,修改的配置项字符串,新的数据)
+
+可以修改并且保存领地
 Land对象有下列方法：
 
 attr:father->str
