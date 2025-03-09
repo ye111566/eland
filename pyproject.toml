@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "endstone-ye111566-land"
-version = "2.0.0"
+name = "eland领地插件"
+version = "7.0.0"
 description = "领地"
 
 [project.entry-points."endstone"]
