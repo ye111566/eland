@@ -1,10 +1,11 @@
 # eland
 a realm plugin for minecraft endstone bedrock dedicated server plugin loader
 
-下载去release
+**github上的eland已经停止更新**
+**下载请移步minebbs**
+**https://www.minebbs.com/resources/eland-endstone-ye-land-api-iland.9450/**
 
 
-https://github.com/ye111566/eland/releases
 
 
 usage:
